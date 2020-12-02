@@ -11,41 +11,32 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
-gem 'bootstrap-switch-rails', '~> 3.3', '>= 3.3.5'
-gem 'select2-rails', '~> 4.0', '>= 4.0.4'
-gem 'bootstrap', '~> 5.0.0.alpha1'
-gem 'rails-assets-sweetalert2', '~> 5.1.1', source: 'https://rails-assets.org'
-gem 'sweet-alert2-rails', '~> 0.1.0'
-gem 'raphaeljs-rails', '~> 2.1', '>= 2.1.2'
-gem 'font-awesome-sass', '~> 5.13.0'
+# gem 'bootstrap-switch-rails', '~> 3.3', '>= 3.3.5'
+# gem 'select2-rails', '~> 4.0', '>= 4.0.4'
+# gem 'bootstrap', '~> 5.0.0.alpha1'
+# gem 'rails-assets-sweetalert2', '~> 5.1.1', source: 'https://rails-assets.org'
+# gem 'sweet-alert2-rails', '~> 0.1.0'
+# gem 'raphaeljs-rails', '~> 2.1', '>= 2.1.2'
+# gem 'font-awesome-sass', '~> 5.13.0'
 # gem 'metismenu-rails', github: 'lanvige/metismenu-rails'
-gem 'pace-rails', '~> 0.1.3'
-gem 'popper_js', '~> 1.16.0'
-gem 'bootstrap-popover-rails'
-gem 'simple_form', '~> 4.1'
+# gem 'pace-rails', '~> 0.1.3'
+# gem 'popper_js', '~> 1.16.0'
+# gem 'bootstrap-popover-rails'
+# gem 'simple_form', '~> 4.1'
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
-gem 'mini_racer', platforms: :ruby
-gem "haml-rails", "~> 2.0"
+# gem 'mini_racer', platforms: :ruby
+# gem "haml-rails", "~> 2.0"
 
-gem 'fancybox-rails', '~> 0.3.1'
+# gem 'fancybox-rails', '~> 0.3.1'
 
 
-gem 'shrine', '~> 2.6'
-# Use Redis adapter to run Action Cable in production
-# gem 'redis', '~> 4.0'
-# Use ActiveModel has_secure_password
-# gem 'bcrypt', '~> 3.1.7'
-gem 'devise', '~> 4.7', '>= 4.7.1'
-# Use ActiveStorage variant
-# gem 'mini_magick', '~> 4.8'
-gem 'carrierwave', '~> 2.0'
-gem 'jquery-rails', '~> 4.3', '>= 4.3.4'
-# Use Capistrano for deployment
-# gem 'capistrano-rails', group: :development
+# gem 'shrine', '~> 2.6'
 
-# Reduces boot times through caching; required in config/boot.rb
-gem 'bootsnap', '>= 1.1.0', require: false
+# gem 'devise', '~> 4.7', '>= 4.7.1'
+# gem 'carrierwave', '~> 2.0'
+# gem 'jquery-rails', '~> 4.3', '>= 4.3.4'
+# gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
