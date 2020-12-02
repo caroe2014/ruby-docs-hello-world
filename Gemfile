@@ -53,7 +53,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   # gem 'better_errors', '~> 2.6'
   # gem 'binding_of_caller', '~> 0.8.0'
-  gem 'pry', '~> 0.13.1'
+  # gem 'pry', '~> 0.13.1'
 end
 gem 'wicked', '~> 1.3', '>= 1.3.4'
 group :test do
