@@ -23,7 +23,7 @@ gem 'metismenu-rails', github: 'lanvige/metismenu-rails'
 gem 'pace-rails', '~> 0.1.3'
 gem 'popper_js', '~> 1.16.0'
 gem 'bootstrap-popover-rails'
-gem 'simple_form', '~> 4.1'
+# gem 'simple_form', '~> 4.1'
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
