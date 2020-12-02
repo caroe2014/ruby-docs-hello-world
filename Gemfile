@@ -59,9 +59,9 @@ gem 'wicked', '~> 1.3', '>= 1.3.4'
 group :test do
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '>= 2.15'
-  gem 'selenium-webdriver', '~> 4.0.0.alpha3'
+  # gem 'selenium-webdriver', '~> 4.0.0.alpha3'
   # Easy installation and use of chromedriver to run system tests with Chrome
-  gem 'chromedriver-helper', '~> 2.1', '>= 2.1.1', github 'flavorjones/chromedriver-helper'
+  # gem 'chromedriver-helper', '~> 2.1', '>= 2.1.1'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
