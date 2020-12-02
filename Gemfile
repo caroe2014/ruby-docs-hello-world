@@ -26,17 +26,13 @@ gem 'bootstrap-popover-rails'
 gem 'simple_form', '~> 4.1'
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
-# gem 'mini_racer', platforms: :ruby
-# gem "haml-rails", "~> 2.0"
-
-# gem 'fancybox-rails', '~> 0.3.1'
-
-
-# gem 'shrine', '~> 2.6'
-
-# gem 'devise', '~> 4.7', '>= 4.7.1'
-# gem 'carrierwave', '~> 2.0'
-# gem 'jquery-rails', '~> 4.3', '>= 4.3.4'
+gem 'mini_racer', platforms: :ruby
+gem "haml-rails", "~> 2.0"
+gem 'fancybox-rails', '~> 0.3.1'
+gem 'shrine', '~> 2.6'
+gem 'devise', '~> 4.7', '>= 4.7.1'
+gem 'carrierwave', '~> 2.0'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.4'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
