@@ -12,6 +12,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
+
 gem 'bootstrap-switch-rails', '~> 3.3', '>= 3.3.5'
 gem 'select2-rails', '~> 4.0', '>= 4.0.4'
 gem 'bootstrap', '~> 5.0.0.alpha1'
