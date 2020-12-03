@@ -51,7 +51,9 @@ group :development do
   # gem 'binding_of_caller', '~> 0.8.0'
   # gem 'pry', '~> 0.13.1'
 end
-# gem 'wicked', '~> 1.3', '>= 1.3.4'
+
+gem 'wicked', '~> 1.3', '>= 1.3.4'
+
 group :test do
   # Adds support for Capybara system testing and selenium driver
   # gem 'capybara', '>= 215'
