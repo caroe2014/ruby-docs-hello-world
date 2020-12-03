@@ -26,7 +26,7 @@ gem 'bootstrap-popover-rails'
 gem 'simple_form', '~> 4.1'
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
-gem 'mini_racer', platforms: :ruby
+# gem 'mini_racer', platforms: :ruby
 gem "haml-rails", "~> 2.0"
 gem 'fancybox-rails', '~> 0.3.1'
 gem 'shrine', '~> 2.6'
